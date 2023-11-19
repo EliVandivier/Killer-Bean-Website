@@ -1,8 +1,8 @@
 /* Code for the stylesheet for the killerbean/index file */
 
 img {
-  border: 5px; 
-  border: solid thick black;
+  border: solid thick black 5px;
+  float: left;
 }
 
 p.indexmain {
