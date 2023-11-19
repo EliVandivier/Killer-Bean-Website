@@ -1,11 +1,24 @@
 /* Code for the stylesheet for the killerbean/index file */
 
-img {
-  border: 10px solid black;
+body {
+  background-image: url(killerBeanWebImgs/bg.jpg);
+}
+
+#img {
   float: left;
 }
 
-p.indexmain {
-  float: left;
-  margin-left: 10px;
+img {
+  border: 10px solid black;
 }
+
+#text {
+
+  height: 333px;
+  width: 70%;
+  float: left;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 500%;
+  text-align: center;
+}
+
