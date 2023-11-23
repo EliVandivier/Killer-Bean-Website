@@ -1,4 +1,4 @@
-/* Code for the stylesheet for the killerbean/index file */
+/* Code for the stylesheet for the fortnite/index file */
 
 * {
   padding: 0;
@@ -19,7 +19,7 @@ html, body{
   width: auto;
   font-family: helvetica, arial, sans-serif;
   font-size: 100%;
-  color: green;
+  color: blue;
   text-align: center;
   border: 10px solid black;
 }
@@ -27,6 +27,6 @@ html, body{
 #container {
   width: 100%;
   height: 100%;
-  margin: 5px;
+  padding: 5px
   border: 5px solid green;
 }
