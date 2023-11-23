@@ -14,7 +14,7 @@ html, body{
 }
 
 #mainHeader {
-  padding: 5% 0;
+  padding: auto;
   height: 10%;
   width: auto;
   font-family: helvetica, arial, sans-serif;
