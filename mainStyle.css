@@ -7,8 +7,6 @@
 }
 
 body {
-  /*background-image: url(webImgs/minback.webp);
-  background-size: 200px 132px; */
   overflow: hidden;
 }
 
@@ -30,8 +28,8 @@ html, body{
   margin: 1vh 1vw 0 1vw;
   border-radius: 30px;
   background-color: rgb(122, 196, 195);
-  padding: 2vh 0;
-  height: 16vh;
+  padding: 2vw 0;
+  height: 9vw;
   width: auto;
   font-family: Permanent Marker, arial, sans-serif;
   font-size: 3vw;
