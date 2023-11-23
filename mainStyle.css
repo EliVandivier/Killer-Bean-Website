@@ -14,11 +14,12 @@ html, body{
 }
 
 #mainHeader {
+  padding: 5% 0;
   height: 10%;
   width: auto;
   font-family: helvetica, arial, sans-serif;
   font-size: 100%;
-  color: red;
+  color: green;
   text-align: center;
   border: 10px solid black;
 }
