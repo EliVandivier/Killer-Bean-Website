@@ -4,18 +4,9 @@ body {
   background-image: url(killerBeanWebImgs/bg.jpg);
 }
 
-#topImg {
-  float: left;
-}
-
-fnImg {
-  border: 10px solid black;
-}
-
-#topImg {
-  height: 333px;
-  width: 70%;
-  float: left;
+#mainHeader {
+  height: 30%;
+  width: auto;
   font-family: helvetica, arial, sans-serif;
   font-size: 500%;
   text-align: center;
