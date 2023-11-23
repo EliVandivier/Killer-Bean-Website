@@ -7,6 +7,7 @@
 
 body {
   background-image: url(webImgs/minback.webp);
+  background-size: 400px 265px;
   overflow: hidden;
 }
 
