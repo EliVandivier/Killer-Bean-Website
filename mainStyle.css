@@ -14,7 +14,6 @@ html, body{
 }
 
 #mainHeader {
-  position: absolute;
   padding: auto;
   height: 10%;
   width: auto;
@@ -23,4 +22,9 @@ html, body{
   color: green;
   text-align: center;
   border: 10px solid black;
+}
+
+#container {
+  width: auto;
+  height: auto;
 }
