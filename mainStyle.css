@@ -5,10 +5,11 @@ body {
 }
 
 #mainHeader {
-  height: 30%;
+  height: 100%;
   width: auto;
   font-family: helvetica, arial, sans-serif;
   font-size: 100%;
+  color: blue;
   text-align: center;
   border: 10px solid black;
 }
