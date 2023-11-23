@@ -1,7 +1,16 @@
 /* Code for the stylesheet for the killerbean/index file */
 
+* {
+  padding: 0;
+  margin: 0;
+}
+
 body {
   background-image: url(killerBeanWebImgs/bg.jpg);
+}
+
+html, body{
+    height: 100%;
 }
 
 #mainHeader {
