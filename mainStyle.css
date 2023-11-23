@@ -27,4 +27,5 @@ html, body{
 #container {
   width: auto;
   height: auto;
+  border: 5px solid green;
 }
