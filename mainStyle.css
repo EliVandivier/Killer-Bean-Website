@@ -5,9 +5,9 @@ body {
 }
 
 #mainHeader {
-  height: 10%;
+  height: 30%;
   width: auto;
   font-family: helvetica, arial, sans-serif;
-  font-size: 500%;
+  font-size: 100%;
   text-align: center;
 }
