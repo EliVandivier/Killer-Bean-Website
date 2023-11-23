@@ -18,10 +18,10 @@ html, body{
 
 #mainHeader {
   padding: auto;
-  height: 1vh;
+  height: 10vh;
   width: auto;
   font-family: helvetica, arial, sans-serif;
-  font-size: 10vh;
+  font-size: 1vh;
   color: blue;
   text-align: center;
   border: 10px solid black;
