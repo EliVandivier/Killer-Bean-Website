@@ -7,7 +7,7 @@
 }
 
 body {
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 p {
@@ -15,17 +15,22 @@ p {
   padding: 0;
 }
 
+a.mainColorSet {
+  text-decoration: none;
+  color: rgb(10, 66, 70);
+}
+
 html {
-  background: radial-gradient(ellipse at bottom, #214268 0%, #060d2e 100%);
+  background: radial-gradient(ellipse at bottom, #060d2e 0%, #214268 100%);
 }
 
 html, body{
-    height: 100vh;
+    height: 400vh;
     width: 100vw;
 }
 
 #mainHeader {
-  margin: 1vh 1vw 0 1vw;
+  margin: .4vw 1.5vw 0 1vw;
   border-radius: 30px;
   background-color: rgb(122, 196, 195);
   padding: 2vw 0;
@@ -35,12 +40,35 @@ html, body{
   font-size: 3vw;
   color: rgb(10, 66, 70);
   text-align: center;
-  border: 4px solid black;
+  border: .35vw solid black;
+}
+
+#navbar {
+  position: sticky;
+  top: 0;
+  border: .35vw solid black;
+  background-color: rgb(122, 196, 195);
+  padding: .35vw 1vw;
+  margin: .5vw 1.5vw 0 1vw;
+  height: 3vw;
+  width: auto;
+  border-radius: 15px;
+}
+
+#homeNav {
+  position: sticky;
+  top: 0;
+  right: 4vw;
+  font-family: Permanent marker, arial, sans-serif;
+  font-size: 1vw;
+  height: auto;
+  width: 5vw;
+  text-align: center;
 }
 
 #container {
   width: auto;
-  height: 100vh;
+  height: 400vh;
 }
 
 .stars {
@@ -48,8 +76,8 @@ html, body{
   top: 0;
   left: 0;
   width: 100vw;
-  height: 100vh;
-  z-index: 3;
+  height: 400vh;
+  z-index: -1;
 }
 
 .star {
@@ -63,6 +91,5 @@ html, body{
 
 @keyframes moveStars {
   0% { transform: translateY(100vh); }
-  100% { transform: translateY(-100vh); }
+  100% { transform: translateY(-400vh); }
 }
-
