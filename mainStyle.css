@@ -61,7 +61,7 @@ html, body{
   font-family: Permanent marker, arial, sans-serif;
   font-size: 1vw;
   text-align: center;
-  display: inline;
+  display: inline-block;
 }
 
 #spanDiscord {
@@ -70,7 +70,7 @@ html, body{
   font-family: Permanent marker, arial, sans-serif;
   font-size: 1vw;
   text-align: center;
-  display: inline;
+  display: inline-block;
 }
 
 #spanBean {
@@ -79,7 +79,7 @@ html, body{
   font-family: Permanent marker, arial, sans-serif;
   font-size: 1vw;
   text-align: center;
-  display: inline;
+  display: inline-block;
 }
 
 #container {
