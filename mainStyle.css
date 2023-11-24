@@ -61,7 +61,6 @@ html, body{
   left: 20vw;
   font-family: Permanent marker, arial, sans-serif;
   font-size: 1vw;
-  height: auto;
   text-align: center;
 }
 
@@ -70,8 +69,6 @@ html, body{
   left: 40vw; 
   font-family: Permanent marker, arial, sans-serif;
   font-size: 1vw;
-  height: auto;
-  width: auto;
   text-align: center;
 }
 
@@ -80,8 +77,6 @@ html, body{
   left: 60vw; 
   font-family: Permanent marker, arial, sans-serif;
   font-size: 1vw;
-  height: auto;
-  width: auto;
   text-align: center;
 }
 
