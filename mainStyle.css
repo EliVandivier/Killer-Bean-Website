@@ -49,7 +49,7 @@ html, body{
   top: 0;
   border: .35vw solid black;
   background-color: rgb(122, 196, 195);
-  padding: .35vw 1vw;
+  padding: .35vw 0;
   margin: .5vw 1vw 0 1vw;
   width: auto;
   border-radius: 15px;
